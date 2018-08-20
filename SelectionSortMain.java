@@ -1,7 +1,7 @@
 package selectionSort;
 import java.util.Arrays;
 
-public class selectionSortMain {
+public class SelectionSortMain {
 
 	public static int[] selectionSort(int[] arr) {
 		for(int i=0;i<arr.length;i++)
